@@ -1,0 +1,15 @@
+D:\Personal\algorithms\vowel-count\Vowel-count\bin\Debug\net6.0\Vowel-count.exe
+D:\Personal\algorithms\vowel-count\Vowel-count\bin\Debug\net6.0\Vowel-count.deps.json
+D:\Personal\algorithms\vowel-count\Vowel-count\bin\Debug\net6.0\Vowel-count.runtimeconfig.json
+D:\Personal\algorithms\vowel-count\Vowel-count\bin\Debug\net6.0\Vowel-count.dll
+D:\Personal\algorithms\vowel-count\Vowel-count\bin\Debug\net6.0\Vowel-count.pdb
+D:\Personal\algorithms\vowel-count\Vowel-count\obj\Debug\net6.0\Vowel-count.csproj.AssemblyReference.cache
+D:\Personal\algorithms\vowel-count\Vowel-count\obj\Debug\net6.0\Vowel-count.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\algorithms\vowel-count\Vowel-count\obj\Debug\net6.0\Vowel-count.AssemblyInfoInputs.cache
+D:\Personal\algorithms\vowel-count\Vowel-count\obj\Debug\net6.0\Vowel-count.AssemblyInfo.cs
+D:\Personal\algorithms\vowel-count\Vowel-count\obj\Debug\net6.0\Vowel-count.csproj.CoreCompileInputs.cache
+D:\Personal\algorithms\vowel-count\Vowel-count\obj\Debug\net6.0\Vowel-count.dll
+D:\Personal\algorithms\vowel-count\Vowel-count\obj\Debug\net6.0\refint\Vowel-count.dll
+D:\Personal\algorithms\vowel-count\Vowel-count\obj\Debug\net6.0\Vowel-count.pdb
+D:\Personal\algorithms\vowel-count\Vowel-count\obj\Debug\net6.0\Vowel-count.genruntimeconfig.cache
+D:\Personal\algorithms\vowel-count\Vowel-count\obj\Debug\net6.0\ref\Vowel-count.dll
